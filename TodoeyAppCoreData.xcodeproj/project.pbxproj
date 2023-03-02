@@ -62,10 +62,10 @@
 			children = (
 				5E9DD08E29AA901000DBCDFD /* AppDelegate.swift */,
 				5E9DD09029AA901000DBCDFD /* SceneDelegate.swift */,
-				5E9DD0A929AA918600DBCDFD /* Model */,
 				5E9DD0A829AA917E00DBCDFD /* View */,
 				5E9DD0A729AA917300DBCDFD /* Controller */,
 				5E9DD0AA29AA919100DBCDFD /* Supporting Filees */,
+				5E9DD0A429AA915F00DBCDFD /* TodoeyData.xcdatamodeld */,
 				5E9DD09C29AA901100DBCDFD /* Info.plist */,
 			);
 			path = TodoeyAppCoreData;
@@ -86,14 +86,6 @@
 				5E9DD09429AA901000DBCDFD /* Main.storyboard */,
 			);
 			path = View;
-			sourceTree = "<group>";
-		};
-		5E9DD0A929AA918600DBCDFD /* Model */ = {
-			isa = PBXGroup;
-			children = (
-				5E9DD0A429AA915F00DBCDFD /* TodoeyData.xcdatamodeld */,
-			);
-			path = Model;
 			sourceTree = "<group>";
 		};
 		5E9DD0AA29AA919100DBCDFD /* Supporting Filees */ = {
